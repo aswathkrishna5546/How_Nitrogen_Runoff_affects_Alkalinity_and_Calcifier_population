@@ -6,10 +6,7 @@ See [`Code.py`](Code.py)
 
 pip install numpy matplotlib
 python Code.py
-output.png
-## Output
 
-![Simulation graph](output.png)
 
 import numpy as np
 
