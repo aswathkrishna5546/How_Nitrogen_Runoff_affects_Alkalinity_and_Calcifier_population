@@ -3,3 +3,6 @@ This Python code runs a simple time-based simulation of two coupled quantities: 
 
 ## Code
 See [`Code.py`](Code.py)
+
+pip install numpy matplotlib
+python Code.py
